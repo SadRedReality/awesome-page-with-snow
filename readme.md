@@ -1,5 +1,4 @@
-# One Page Website avec effet de neige
+# One Page Website with snow effect
 
-Vous pouvez utiliser ce code où vous voulez.
-
+Fell free to use this code if you want.
 Sad.
